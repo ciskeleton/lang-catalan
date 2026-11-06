@@ -1,0 +1,82 @@
+<?php
+
+/**
+ * CiSkeleton Language Metadata - Catalan
+ *
+ * @package     CiSkeleton\Core
+ * @subpackage  Language
+ * @category    Metadata
+ *
+ * @author      Kader Bouyakoub <bkader[at]mail[dot]com>
+ * @copyright   2018-present, Kader Bouyakoub
+ * @license     MIT
+ * @link        https://opensource.org/license/mit
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
+return [
+	'name'       => 'Català',
+	'name_en'    => 'Catalan',
+	'locale'     => 'ca_ES',
+	'tag'        => 'ca-ES',
+	'direction'  => 'ltr',
+	'code'       => 'ca',
+	'flag'       => 'es-ct',
+	'version'    => '0.0.1',
+	'version_id' => 1,
+
+	// Localized language names.
+	'translations' => [
+		'arabic'      => 'Àrab',
+		'armenian'    => 'Armeni',
+		'azerbaijani' => 'Àzeri',
+		'bengali'     => 'Bengalí',
+		'brazilian'   => 'Portuguès (Brasil)',
+		'bulgarian'   => 'Búlgar',
+		'catalan'     => 'Català',
+		'chinese'     => 'Xinès (Simplificat)',
+		'croatian'    => 'Croat',
+		'czech'       => 'Txec',
+		'danish'      => 'Danès',
+		'dutch'       => 'Neerlandès',
+		'english'     => 'Anglès',
+		'estonian'    => 'Estonià',
+		'filipino'    => 'Filipí',
+		'finnish'     => 'Finès',
+		'french'      => 'Francès',
+		'georgian'    => 'Georgià',
+		'german'      => 'Alemany',
+		'greek'       => 'Grec',
+		'hindi'       => 'Hindi',
+		'hungarian'   => 'Hongarès',
+		'indonesian'  => 'Indonesi',
+		'italian'     => 'Italià',
+		'japanese'    => 'Japonès',
+		'khmer'       => 'Khmer',
+		'korean'      => 'Coreà',
+		'latvian'     => 'Letó',
+		'lithuanian'  => 'Lituà',
+		'malay'       => 'Malai',
+		'marathi'     => 'Marathi',
+		'norwegian'   => 'Noruec',
+		'persian'     => 'Persa',
+		'polish'      => 'Polonès',
+		'portuguese'  => 'Portuguès',
+		'romanian'    => 'Romanès',
+		'russian'     => 'Rus',
+		'serbian'     => 'Serbi',
+		'slovak'      => 'Eslovac',
+		'slovenian'   => 'Eslovè',
+		'spanish'     => 'Espanyol',
+		'swahili'     => 'Suahili',
+		'swedish'     => 'Suec',
+		'taiwanese'   => 'Xinès (Tradicional)',
+		'tamil'       => 'Tàmil',
+		'thai'        => 'Tailandès',
+		'turkish'     => 'Turc',
+		'ukrainian'   => 'Ucraïnès',
+		'urdu'        => 'Urdu',
+		'vietnamese'  => 'Vietnamita',
+	],
+];
